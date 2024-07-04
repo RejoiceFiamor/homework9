@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(26, 212, 67);
+    text-align: center;
+    color: rgb(241, 22, 187);
+    border: 10px solid black;
+    padding: 9px;
+
+}
+
+h2{
+    text-align: center;
+    border: 5px solid pink;
+    text-shadow: 0cap;
+}
